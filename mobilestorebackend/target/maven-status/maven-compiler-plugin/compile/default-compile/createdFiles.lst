@@ -1,0 +1,16 @@
+com\niit\dao\CartDao.class
+com\niit\model\SupplierModel.class
+com\niit\daoimpl\SupplierDaoImpl.class
+com\niit\model\ProductsModel.class
+com\niit\model\CartModel.class
+com\niit\dao\CategoryDao.class
+com\niit\config\Application_Context.class
+com\niit\model\UserModel.class
+com\niit\daoimpl\ProductsDaoImpl.class
+com\niit\model\OrdersModel.class
+com\niit\dao\SupplierDao.class
+com\niit\daoimpl\CategoryDaoImpl.class
+com\niit\dao\ProductsDao.class
+com\niit\mobilestorebackend\App.class
+com\niit\dao\UserDao.class
+com\niit\model\CategoryModel.class
